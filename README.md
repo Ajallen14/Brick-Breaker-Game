@@ -1,4 +1,4 @@
-# [Tic Tac Toe](https://github.com/Ajallen14/Tic-Tac-Toe-Game/blob/master/TicTacToe.java)
+# [**Tic Tac Toe**](https://github.com/Ajallen14/Tic-Tac-Toe-Game/blob/master/TicTacToe.java)
 
 * **initializeBoard()** : fills the board with empty spaces.
 
@@ -12,3 +12,12 @@
 
 * **switchPlayer()** : alternates the current player between 'X' and 'O'.
 
+### **OUTPUT**
+
+-------------
+| X |   |   |
+-------------
+| O | X |   |
+-------------
+| O |   | X |
+-------------
